@@ -1,6 +1,11 @@
 # ORCA-VFD  
 Open Reliability & Condition Assessment for Variable Frequency Drives
 
+[![DOI](https://img.shields.io/badge/DOI-10.6084/m9.figshare.30727865-blue.svg)](https://doi.org/10.6084/m9.figshare.30727865)
+
+**Full ORCA-VFD dataset (Figshare DOI):**  
+https://doi.org/10.6084/m9.figshare.30727865
+
 ORCA-VFD is an open, field-validated framework for reliability modeling,
 remaining useful life (RUL) prediction, anomaly scoring, and degradation
 analysis of VFD-driven motor systems. The project integrates physics-based
