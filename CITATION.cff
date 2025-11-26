@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use ORCA-VFD in your research, please cite it using the following metadata."
+title: "ORCA-VFD: Open Reliability and Condition Assessment Framework for Variable Frequency Drives"
+version: "1.0.0"
+date-released: "2025-11-26"
+authors:
+  - family-names: "Tolbert"
+    given-names: "Carl Lee"
+    affiliation: "Wayward Leaders | Technical"
+repository-code: "https://github.com/gencaddy2/ORCA-VFD"
+keywords:
+  - VFD
+  - reliability
+  - predictive maintenance
+  - remaining useful life
+  - ORCA-VFD
+  - condition monitoring
+  - industrial AI
+  - motor systems
+  - degradation modeling
+  - anomaly detection
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Tolbert"
+      given-names: "Carl Lee"
+  title: "ORCA-VFD: Open Reliability and Condition Assessment Framework for Variable Frequency Drives"
+  institution: "Wayward Leaders | Technical"
+  year: 2025
+  url: "https://github.com/gencaddy2/ORCA-VFD"
