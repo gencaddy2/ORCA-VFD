@@ -46,6 +46,17 @@ standardized ORCA-VFD data format.
   physics, fault, and field domains.
 
 ---
+## Data Availability
+
+The complete ORCA-VFD dataset, including lifecycle trajectories, anomaly 
+scores, processed physics/fault/field data, and metadata files, is 
+publicly available on Figshare:
+
+**DOI:** https://doi.org/10.6084/m9.figshare.30727865
+
+Only small demonstration samples are included in this GitHub repository.
+
+---
 
 ## Repository Structure
 
