@@ -1,3 +1,13 @@
+"""
+ORCA-VFD Research Code
+Author: Carl L. Tolbert
+Focus: Control-aware VFD sizing, torque-centric analysis, and reliability engineering
+Context: Experimental and analytical research
+Status: Non-safety-rated. Use for study, testing, and interpretation only.
+License: MIT
+
+Principle: Limits should be reached intentionally, not accidentally.
+"""
 from pathlib import Path
 import pandas as pd
 import numpy as np
